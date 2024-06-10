@@ -1,0 +1,11 @@
+body {
+    background-color:  var(--nada);
+    color: var(--cor-de-font);
+    font-family: 'Stencil Std', serif;
+}
+
+/* #  para id */
+
+.header{
+    background-color:  #C0FFB6;
+}
