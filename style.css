@@ -48,41 +48,14 @@ header {
     padding: 40px;
 }
 
-.paragrafo-um {
-    text-align: justify;
-}
+
 
 .foto-corpo {
     width: 65%;
     padding: 10px 0;
 }
 
-#Trab1 {
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-    flex-direction: column;
-}
 
-#Trab2 {
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-    flex-direction: column;
-}
-
-#Trab3 {
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-    flex-direction: column;
-}
 
 .cabeçalho-lista-item {
     display: none;
@@ -112,16 +85,7 @@ header {
 }
 
 
-.roda-pé-imagem {
-    width: 40px;
-    border-radius: 50%;
-    padding: 0px 30px;
-}
 
-.roda-pé-texto {
-    margin: 10px 0px 5px 0px;
-    color: rgb(0, 0, 0);
-}
 
 li {
     float: left;
@@ -241,31 +205,6 @@ body {
     padding: 40px;
 }
 
-#Trab1 {
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px 0;
-    padding-top: 140px;
-}
-
-#Trab2 {
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px 0;
-}
-
-#Trab3 {
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px 0;
-}
-
 .cabeçalho-lista-item {
     display: inline-block;
     font-size: 20px;
@@ -377,43 +316,3 @@ li.dropdown {
     padding: 0;
 }
 
-body {
-    background-image: linear-gradient(rgba(174, 128, 231, 0.821), rgb(152, 199, 216));
-}
-
-.cabeçalho {
-    background-color: rgb(174, 128, 231);
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    padding: 15px 0;
-    font-family: 'Ubuntu', sans-serif;
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
-
-.cabeçalho-imagem a {
-    width: 5%;
-    padding: 5px 5px;
-    display: block;
-}
-
-.cabeçalho-imagem {
-    border-radius: 50%;
-    width: 80px;
-}
-
-.foto-corpo a {
-    width: 30%;
-    padding: 40px;
-}
-
-.paragrafo-um {
-    text-align: justify;
-}
-
-.foto-corpo {
-    width: 30%;
-    padding: 40px;
-}
