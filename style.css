@@ -32,3 +32,23 @@ header {
     align-items: center;
 }
 
+.cabeçalho-lista-item {
+    display: none;
+    font-size: 20px;
+}
+
+.texto-cabecalho {
+    font-size: 20px;
+    margin: 27px 0px;
+}
+
+.corpo-div-conteudo {
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.8;
+}
+
+.roda-pé {
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    border: 2px solid rgb(160, 154, 154);
+}
