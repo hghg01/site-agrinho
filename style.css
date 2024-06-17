@@ -17,11 +17,11 @@ header {
 
   
   body {
-    background-image: linear-gradient(rgba(41, 143, 7, 0.821), rgb(152, 199, 216));
+    background-image: linear-gradient(rgba(167, 235, 144, 0.821), rgb(152, 199, 216));
 }
 
 .cabeçalho {
-    background-color: rgb(72, 226, 41);
+    background-color: #f0f7ef;
     color: white;
     display: flex;
     justify-content: space-around;
