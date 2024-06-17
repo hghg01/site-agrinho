@@ -1,5 +1,5 @@
 body {
-    background-color:  var(--nada);
+    background-color: var(--nada);
     color: var(--cor-de-font);
     font-family: 'Stencil Std', serif;
 }
@@ -13,11 +13,11 @@ header {
     align-items: center;
     background-color: green;
     padding: 20px 20px;
-  }
+}
 
-  
-  body {
-    background-image:  #ffffff;
+
+body {
+    background-image: #ffffff;
 }
 
 .cabeçalho {
@@ -101,12 +101,15 @@ li.dropdown {
 
 }
 
-@media screen and (min-width:656px) and (max-width: 1065px) {
-* {
-    margin: 0;
-    padding: 0;
-}
+    #solo-imagem {
+        width: 30%;
+    }
 
-#solo-imagem {
- width: 30%;
+    
+@media screen and (min-width:656px) and (max-width: 1065px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
 }
