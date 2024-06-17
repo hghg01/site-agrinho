@@ -103,10 +103,8 @@ li.dropdown {
 
     #solo-imagem {
         width: 30%;
-        position: relative; /* define a posição como relativa para poder movê-la */
-        left: 50px; /* move a imagem 50 pixels para a direita */
-        width: 200px; /* define a largura da imagem como 200 pixels */
-        height: 150px; /* define a altura da imagem como 150 pixels */
+        position: fixed;
+    
     }
     }
 
