@@ -14,3 +14,45 @@ header {
     background-color: green;
     padding: 20px 20px;
   }
+
+  
+  body {
+    background-image: linear-gradient(rgba(41, 143, 7, 0.821), rgb(152, 199, 216));
+}
+
+.cabeçalho {
+    background-color: rgb(72, 226, 41);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0;
+    font-family: 'Ubuntu', sans-serif;
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.cabeçalho-imagem a {
+    width: 5%;
+    padding: 5px 5px;
+    display: block;
+}
+
+.cabeçalho-imagem {
+    border-radius: 50%;
+    width: 80px;
+}
+
+.foto-corpo a {
+    width: 30%;
+    padding: 40px;
+}
+
+.paragrafo-um {
+    text-align: justify;
+}
+
+.foto-corpo {
+    width: 65%;
+    padding: 10px 0;
+}
