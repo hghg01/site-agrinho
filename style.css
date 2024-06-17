@@ -21,7 +21,7 @@ header {
 }
 
 .cabeçalho {
-    background-color: #64f84d;
+    background-color: #81eb70;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -46,9 +46,24 @@ header {
     font-family: 'Ubuntu', sans-serif;
     line-height: 1.8;
 }
+li.dropdown {
+    display: inline-block;
+    font-size: 20px;
+}
 
-.roda-pé {
-    background-color: rgb(255, 255, 255);
-    justify-content: center;
-    border: 2px solid rgb(160, 154, 154);
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
 }
