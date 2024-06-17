@@ -17,11 +17,11 @@ header {
 
   
   body {
-    background-image: (rgba(243, 253, 240, 0.821), rgb(100, 253, 133));
+    background-image:  #ffffff;
 }
 
 .cabeçalho {
-    background-color: #9cd394;
+    background-color: #64f84d;
     color: white;
     display: flex;
     justify-content: space-around;
