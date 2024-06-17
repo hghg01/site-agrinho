@@ -103,9 +103,10 @@ li.dropdown {
 
     #solo-imagem {
         width: 30%;
+        align-content: center;
     }
 
-    
+
 @media screen and (min-width:656px) and (max-width: 1065px) {
     * {
         margin: 0;
